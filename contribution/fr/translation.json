@@ -1,55 +1,55 @@
 {
 	"BattlePassTimeLimitedInfoModal": {
 		"button": {
-			"eng": "Close",
-			"trans": "Cerrar"
+			"eng": "Close",								
+			"trans": "Fermer"
 		},
 		"endDate": {
 			"desc": {
 				"eng": "This battle track will end at ${date}, and you will not be able purchase it after this date.",
-				"trans": "Esta pista de batalla finalizará el ${date}, y no podrás comprarla después de esta fecha."
+				"trans": "Ce battle track prendra fin le ${date}, vous ne pourrez plus l'acheter après cette date."													
 			},
 			"title": {
 				"eng": "Track End Date",
-				"trans": "Fecha de finalización de seguimiento"
+				"trans": "Date limite du Track"
 			}
 		},
 		"maxDays": {
 			"desc1": {
 				"eng": "battle track will remain available for unlock and redeem daily ${days} days after your first login date (${firstDay}), regardless of the end date.",
-				"trans": "La pista de batalla seguirá disponible para desbloquear y canjear diariamente durante ${days} días después de tu primera fecha de inicio de sesión (${firstDay}), independientemente de la fecha de finalización."
+				"trans": "Le battle track restera disponible pour être débloqué et pour collecter les récompenses pendant ${days} jours après votre première connexion (${firstDay}), quelle que soit la date de fin."
 			},
 			"desc2": {
 				"eng": "Once the redeemable days are over, you will not be able to unlock or redeem the rewards anymore. so make sure you login and redeem your rewards before the redeemable days are over.",
-				"trans": "Una vez que los días canjeables hayan terminado, no podrás desbloquear o canjear las recompensas. Así que asegúrate de iniciar sesión y canjear tus recompensas antes de que los días canjeables hayan terminado."
+				"trans": "Une fois les jours de récompenses écoulés, vous ne pourrez plus débloquer ni collecter les récompenses. Assurez-vous donc de vous connecter et de collecter vos récompenses avant la date limite."
 			},
 			"title": {
 				"eng": "Redeemable Days",
-				"trans": "Días canjeables"
+				"trans": "Jours de collecte"
 			}
 		},
 		"trackDuration": {
 			"desc": {
 				"eng": "This battle track is a ${days} days track. by unlocking this track, you will unlock the current period of the track. and you will be able to unlock it again if its still available in the next period.",
-				"trans": "Esta pista de batalla es una pista de ${days} días. Al desbloquear esta pista, desbloquearás el período actual de la pista. Y podrás desbloquearla nuevamente si todavía está disponible en el próximo período."
+				"trans": "Ce battle track dure ${days} jour(s). En débloquant ce track, vous débloquerez la période actuelle du track. Vous pourrez le débloquer à nouveau s'il est toujours disponible lors de la prochaine période."
 			},
 			"title": {
 				"eng": "Battle Track duration",
-				"trans": "Duración de la pista de batalla"
+				"trans": "Durée du Battle Track"
 			}
 		}
 	},
 	"CrewTip": {
 		"tip1": {
 			"eng": "Looks like one or more of your mercenary is low level, you should level them up to match your level using ${item1} and ${item2}",
-			"trans": "Parece que uno o más de tus mercenarios son de nivel bajo, deberías subirlos de nivel para que coincidan con tu nivel usando ${item1} y ${item2}"
+			"trans": "On dirait qu'un ou plusieurs de vos mercenaires soient bas niveau, Vous devriez les faire monter en niveau pour qu'ils correspondent au vôtre en utilisant ${item1} et ${item2}"
 		}
 	},
 	"MercenaryDrawType": {
 		"ELITE": {
 			"description": {
 				"eng": "More experienced pro mercs hang out here",
-				"trans": "Los mercenarios más experimentados se reúnen aquí"
+				"trans": "Des mercenaires professionnels plus expérimentés traînent ici"
 			},
 			"title": {
 				"eng": "Inner tables",
@@ -532,7 +532,7 @@
 	"autoResetPage": {
 		"complete": {
 			"eng": "Auto reset success!",
-			"trans": "¡Reinicio automático exitoso!"
+			"trans": "Reinicio automático exitoso!"
 		},
 		"error": {
 			"duplicateTraits": {
@@ -1396,7 +1396,7 @@
 			"collapsed": {
 				"title": {
 					"eng": "Your gang has collapsed!",
-					"trans": "¡Tu banda ha colapsado!"
+					"trans": "Tu banda ha colapsado!"
 				}
 			}
 		}
@@ -1416,7 +1416,7 @@
 		},
 		"deploy": {
 			"eng": "Deploy Now",
-			"trans": "¡Desplegar ahora!"
+			"trans": "Desplegar ahora!"
 		},
 		"notInClan": {
 			"eng": "You can only deploy buffs if you are in a gang",
@@ -1874,7 +1874,7 @@
 		},
 		"description": {
 			"eng": "Create your own gang and invite your friends to join!",
-			"trans": "¡Crea tu propia banda e invita a tus amigos a unirse!"
+			"trans": "Crea tu propia banda e invita a tus amigos a unirse!"
 		},
 		"fullJoinButton": {
 			"title": {
@@ -2024,11 +2024,11 @@
 			"noti": {
 				"body": {
 					"eng": "Today's Daily Reward Awaits! Log in and Claim Your Reward Now! 🌟",
-					"trans": "¡La recompensa diaria de hoy te espera! ¡Inicia sesión y reclama tu recompensa ahora! 🌟"
+					"trans": "La recompensa diaria de hoy te espera! Inicia sesión y reclama tu recompensa ahora! 🌟"
 				},
 				"title": {
 					"eng": "Grab Your Daily Reward!",
-					"trans": "¡Recoge tu recompensa diaria!"
+					"trans": "Recoge tu recompensa diaria!"
 				}
 			}
 		}
@@ -2228,7 +2228,7 @@
 		},
 		"dungeonCleared": {
 			"eng": "Dungeon cleared!",
-			"trans": "¡Mazmorra completada!"
+			"trans": "Mazmorra completada!"
 		},
 		"error": {
 			"actionWhileHasEnemy": {
@@ -2778,7 +2778,7 @@
 		},
 		"title": {
 			"eng": "Opps, something went wrong!",
-			"trans": "¡Ups, algo salió mal!"
+			"trans": "Ups, algo salió mal!"
 		},
 		"update": {
 			"description": {
@@ -2798,19 +2798,19 @@
 		},
 		"dialog1": {
 			"eng": "Complete the survey to earn rewards! 😊 I would love to hear your feedback!",
-			"trans": "¡Completa la encuesta para ganar recompensas! 😊 ¡Me encantaría escuchar tu opinión!"
+			"trans": "Completa la encuesta para ganar recompensas! 😊 Me encantaría escuchar tu opinión!"
 		},
 		"dialog2": {
 			"eng": "Sorry about the bad experience 😢 I would love to hear your feedback!🙏",
-			"trans": "¡Lo siento por la mala experiencia! 😢 ¡Me encantaría escuchar tus comentarios! 🙏"
+			"trans": "Lo siento por la mala experiencia! 😢 Me encantaría escuchar tus comentarios! 🙏"
 		},
 		"dialog3": {
 			"eng": "Thank you! if you could rate on the app store, it would help me a lot! 🙏",
-			"trans": "¡Gracias! Si pudieras calificar en la tienda de aplicaciones, ¡me ayudaría mucho! 🙏"
+			"trans": "Gracias! Si pudieras calificar en la tienda de aplicaciones, me ayudaría mucho! 🙏"
 		},
 		"dialog4": {
 			"eng": "Thank you for your feedback! 🙏",
-			"trans": "¡Gracias por tus comentarios! 🙏"
+			"trans": "Gracias por tus comentarios! 🙏"
 		},
 		"lowStarComment": {
 			"eng": "How can I improve to earn 5 stars?",
@@ -2856,11 +2856,11 @@
 	"firstPurchasePromoSmall": {
 		"description": {
 			"eng": "Top-up for the first time to get double value!",
-			"trans": "¡Recarga por primera vez para obtener el doble de valor!"
+			"trans": "Recarga por primera vez para obtener el doble de valor!"
 		},
 		"title": {
 			"eng": "First Top-up Double Value",
-			"trans": "¡Duplica el valor de tu primera recarga!"
+			"trans": "Duplica el valor de tu primera recarga!"
 		}
 	},
 	"forgotPasswordPopup": {
@@ -2999,7 +2999,7 @@
 		"requestJoin": {
 			"mail": {
 				"eng": "Hi, I would love to join your gang! ${request}",
-				"trans": "¡Hola, me encantaría unirme a tu banda! ${request}"
+				"trans": "Hola, me encantaría unirme a tu banda! ${request}"
 			}
 		},
 		"tagError": {
@@ -3094,7 +3094,7 @@
 		},
 		"description": {
 			"eng": "Join the fight for justice in Arclight City! The ACPD calls upon vigilant citizens to aid in the pursuit of wanted criminals. Your city needs you! Bring in the fugitives, dead or alive, and earn substantial rewards. Together, we'll make Arclight City safer for all. 🌃👮‍♂️\\n#CitizenArrest #ACPDJustice",
-			"trans": "¡Únete a la lucha por la justicia en Ciudad Arclight! La ACPD pide a los ciudadanos vigilantes que ayuden en la persecución de criminales buscados. ¡Tu ciudad te necesita! Trae a los fugitivos, vivos o muertos, y obtén recompensas sustanciales. Juntos, haremos de Ciudad Arclight un lugar más seguro para todos. 🌃👮‍♂️\\n#ArrestoCiudadano #JusticiaACPD"
+			"trans": "Únete a la lucha por la justicia en Ciudad Arclight! La ACPD pide a los ciudadanos vigilantes que ayuden en la persecución de criminales buscados. Tu ciudad te necesita! Trae a los fugitivos, vivos o muertos, y obtén recompensas sustanciales. Juntos, haremos de Ciudad Arclight un lugar más seguro para todos. 🌃👮‍♂️\\n#ArrestoCiudadano #JusticiaACPD"
 		},
 		"expire": {
 			"eng": "expire date",
@@ -3586,7 +3586,7 @@
 		},
 		"autoRepairComplete": {
 			"eng": "Repair completed!",
-			"trans": "¡Reparación completada!"
+			"trans": "Reparación completada!"
 		},
 		"itemSelectModal": {
 			"title": {
@@ -3693,7 +3693,7 @@
 		"topUp": {
 			"discountAvailable": {
 				"eng": "Discount Available!",
-				"trans": "¡Descuento disponible!"
+				"trans": "Descuento disponible!"
 			}
 		}
 	},
@@ -4569,7 +4569,7 @@
 		"repairKit": {
 			"description": {
 				"eng": "The Nano Repairer is a state-of-the-art device developed by TaiXing Cybernetics for repairing a wide range of equipment intelligently with nano-machines. It's your go-to solution when your gear malfunctions due to calibration failure. Keep in mind, it doesn't guarantee a fix every time, but persistence pays off, after a few attempts, it'll get the job done.",
-				"trans": "El Reparador Nano es un dispositivo de última generación desarrollado por TaiXing Cibernético para reparar de forma inteligente una amplia gama de equipos con nanomáquinas. Es tu solución ideal cuando tu equipo no funciona bien debido a un error de calibración. Ten en cuenta que no garantiza una solución en todo momento, pero la persistencia tiene su recompensa: tras unos cuantos intentos, ¡hará el trabajo!"
+				"trans": "El Reparador Nano es un dispositivo de última generación desarrollado por TaiXing Cibernético para reparar de forma inteligente una amplia gama de equipos con nanomáquinas. Es tu solución ideal cuando tu equipo no funciona bien debido a un error de calibración. Ten en cuenta que no garantiza una solución en todo momento, pero la persistencia tiene su recompensa: tras unos cuantos intentos, hará el trabajo!"
 			},
 			"name": {
 				"eng": "Nano Repairer",
@@ -5123,7 +5123,7 @@
 		"error": {
 			"noWin": {
 				"eng": "Almost! Better luck next time!",
-				"trans": "¡Casi! ¡Mejor suerte la próxima vez!"
+				"trans": "Casi! Mejor suerte la próxima vez!"
 			},
 			"notEnoughCurrency": {
 				"eng": "Insufficient currency, required: ${required}",
@@ -5147,7 +5147,7 @@
 			},
 			"textList3": {
 				"eng": "Randomizing...",
-				"trans": "¡Aleatorizando...!"
+				"trans": "Aleatorizando...!"
 			}
 		},
 		"close": {
@@ -5183,15 +5183,15 @@
 			},
 			"lostSubtitle": {
 				"eng": "Keep playing, your win awaits!",
-				"trans": "¡Sigue jugando, tu victoria te espera!"
+				"trans": "Sigue jugando, tu victoria te espera!"
 			},
 			"lostTitle": {
 				"eng": "So close!",
-				"trans": "¡Casi lo logras!"
+				"trans": "Casi lo logras!"
 			},
 			"winTitle": {
 				"eng": "You won!",
-				"trans": "¡Ganaste!"
+				"trans": "Ganaste!"
 			}
 		}
 	},
@@ -5360,7 +5360,7 @@
 	"maintenanceScreen": {
 		"body1": {
 			"eng": "Hello, Cyberpunkers of Arclight City!",
-			"trans": "¡Hola, Cyberpunkers de la Ciudad Arclight!"
+			"trans": "Hola, Cyberpunkers de la Ciudad Arclight!"
 		},
 		"body2": {
 			"eng": "Currently, Arclight City is undergoing maintenance to address a few unexpected issues. This is crucial for ensuring a top-notch gaming experience.",
@@ -5774,7 +5774,7 @@
 		},
 		"levelUp": {
 			"eng": "Level Up",
-			"trans": "¡Subir de nivel!"
+			"trans": "Subir de nivel!"
 		},
 		"stats": {
 			"title": {
@@ -6490,16 +6490,16 @@
 					"Good day, mate! It's always a pleasure to see you. Let's make today a good one with some fantastic rewards."
 				],
 				"trans": [
-					"¡Hola, desconocido! ¿Estás listo para un pequeño impulso que te ayude en tu viaje hoy?",
-					"¡Bienvenida de vuelta, cariño! Tengo algunas cosas emocionantes para ayudarte a patear traseros virtuales hoy.",
-					"¡Oye tú! No olvides revisar conmigo todos los días para conseguir algunos botines increíbles y hacer tu juego aún más épico.",
-					"¡Vaya, vaya, vaya...mira quién decidió iniciar sesión hoy! Tengo algo que creo que te va a encantar.",
-					"¡Saludos, compañero aventurero! Veamos qué tipo de botín podemos buscar para ti hoy.",
-					"¡Hola! ¿Te sientes afortunado hoy? Tengo algunas recompensas que podrían hacer tu día un poco más brillante.",
-					"¡Hola, compañero! Hoy me siento especialmente generoso. No te pierdas algunos equipos de primera calidad.",
-					"¡Bienvenido de vuelta, amigo mío! Veamos qué tipo de tesoro podemos encontrar para ti hoy.",
-					"¡Saludos! Espero que estés listo para conseguir botín de otro mundo hoy.",
-					"¡Buen día, amigo! Siempre es un placer verte. Hagamos de hoy un buen día con fantásticas recompensas."
+					"Hola, desconocido! ¿Estás listo para un pequeño impulso que te ayude en tu viaje hoy?",
+					"Bienvenida de vuelta, cariño! Tengo algunas cosas emocionantes para ayudarte a patear traseros virtuales hoy.",
+					"Oye tú! No olvides revisar conmigo todos los días para conseguir algunos botines increíbles y hacer tu juego aún más épico.",
+					"Vaya, vaya, vaya...mira quién decidió iniciar sesión hoy! Tengo algo que creo que te va a encantar.",
+					"Saludos, compañero aventurero! Veamos qué tipo de botín podemos buscar para ti hoy.",
+					"Hola! ¿Te sientes afortunado hoy? Tengo algunas recompensas que podrían hacer tu día un poco más brillante.",
+					"Hola, compañero! Hoy me siento especialmente generoso. No te pierdas algunos equipos de primera calidad.",
+					"Bienvenido de vuelta, amigo mío! Veamos qué tipo de tesoro podemos encontrar para ti hoy.",
+					"Saludos! Espero que estés listo para conseguir botín de otro mundo hoy.",
+					"Buen día, amigo! Siempre es un placer verte. Hagamos de hoy un buen día con fantásticas recompensas."
 				]
 			},
 			"npcName": {
@@ -6515,7 +6515,7 @@
 			"feedbackButton": {
 				"description": {
 					"eng": "Take a survey to earn reward and give your feedback!",
-					"trans": "¡Realiza una encuesta para ganar una recompensa y dar tu opinión!"
+					"trans": "Realiza una encuesta para ganar una recompensa y dar tu opinión!"
 				},
 				"title": {
 					"eng": "Take Survey",
@@ -6527,7 +6527,7 @@
 					"Welcome to my game! let me know if you have any feedbacks or bug report :)"
 				],
 				"trans": [
-					"¡Bienvenido a mi juego! ¡Hágame saber si tiene algún comentario o informe de errores :)"
+					"Bienvenido a mi juego! Hágame saber si tiene algún comentario o informe de errores :)"
 				]
 			}
 		},
@@ -6581,7 +6581,7 @@
 					"Hey there, welcome to my store!"
 				],
 				"trans": [
-					"¡Hola, bienvenido a mi tienda!"
+					"Hola, bienvenido a mi tienda!"
 				]
 			},
 			"locationName": {
@@ -6600,7 +6600,7 @@
 					"Sweetheart, my quest bank's runnin' a little dry right now. But keep swingin' by, 'cause I'll whip up somethin' spicy just for you soon."
 				],
 				"trans": [
-					"¡Ay, azúcar, ya no tengo más trabajos para ti en este momento! Pero no te preocupes, pronto tendré algo jugoso para ti.",
+					"Ay, azúcar, ya no tengo más trabajos para ti en este momento! Pero no te preocupes, pronto tendré algo jugoso para ti.",
 					"Lo siento, cariño, no hay misiones en el menú para ti en este momento. Pero mantén ese brillante ojo cibernético abierto, porque pronto tendré algo que valga tu tiempo.",
 					"Ay, cariño, me pillaste en un mal momento. No tengo misiones que ofrecerte, pero te prometo que te engancharé con algunas aventuras increíbles antes de que te des cuenta.",
 					"Cariño, mi banco de misiones está un poco vacío en este momento. Pero sigue pasando por aquí, porque pronto prepararé algo picante solo para ti."
@@ -6647,7 +6647,7 @@
 				],
 				"trans": [
 					"¿Listo para la acción? Conoce a tus nuevos compañeros de equipo.",
-					"¡Es hora de subir de nivel! Tus nuevos compañeros de equipo están aquí.",
+					"Es hora de subir de nivel! Tus nuevos compañeros de equipo están aquí.",
 					"¿El equipo de ensueño? Estos son tus nuevos compañeros de equipo.",
 					"Bienvenido a bordo. Conoce a los miembros del equipo con los que trabajarás.",
 					"Estás en buenas manos. Estos son tus nuevos compañeros de equipo.",
@@ -6677,8 +6677,8 @@
 				],
 				"trans": [
 					"No me preguntes cómo tomo con esta máscara puesta, simplemente lo hago.",
-					"¡Ah, un compañero creyente! ¿Te unes a dar una vuelta? Con la bendición de la Diosa, quizás podamos revelar nuestras fortunas hoy.",
-					"¡Hola! Dicen que con fe, la Diosa guía nuestras pelotas de acero hacia la victoria. ¿Qué tal si vemos si hoy es nuestro día?",
+					"Ah, un compañero creyente! ¿Te unes a dar una vuelta? Con la bendición de la Diosa, quizás podamos revelar nuestras fortunas hoy.",
+					"Hola! Dicen que con fe, la Diosa guía nuestras pelotas de acero hacia la victoria. ¿Qué tal si vemos si hoy es nuestro día?",
 					"Qué bueno ver una cara nueva en este lugar sagrado. Confía en la Diosa, y quizás ambos veamos cómo nuestras fortunas aumentan con cada jugada."
 				]
 			},
@@ -6750,7 +6750,7 @@
 				],
 				"trans": [
 					"¿Buscando un trabajo, eh? Lo siento, no hay nada en mi radar en este momento. Vuelve más tarde, tal vez tenga algo que valga la pena para ti.",
-					"¡Escucha, listillo, estoy agotado de misiones. Vuelve cuando haya reabastecido.",
+					"Escucha, listillo, estoy agotado de misiones. Vuelve cuando haya reabastecido.",
 					"¿Buscando acción, eh? Bueno, mala suerte. No hay trabajos para ti en este momento, listillo."
 				]
 			},
@@ -7281,7 +7281,7 @@
 		},
 		"firstPurchase": {
 			"eng": "First Top-up Double Value",
-			"trans": "¡Duplica el valor de tu primera recarga!"
+			"trans": "Duplica el valor de tu primera recarga!"
 		},
 		"mostEfficient": {
 			"eng": "Best Value",
@@ -7304,7 +7304,7 @@
 			},
 			"howToDesc4": {
 				"eng": "Thats it!",
-				"trans": "¡Eso es todo!"
+				"trans": "Eso es todo!"
 			},
 			"rewards": {
 				"eng": "rewards",
@@ -7320,7 +7320,7 @@
 			},
 			"shareText": {
 				"eng": "hey! checkout this awesome text based MMORPG! enter my name \"${name}\" as referral when you create your character!",
-				"trans": "¡Oye! ¡Echa un vistazo a este increíble MMORPG basado en texto! ¡Ingresa mi nombre \"${name}\" como recomendación cuando crees tu personaje!"
+				"trans": "Oye! Echa un vistazo a este increíble MMORPG basado en texto! Ingresa mi nombre \"${name}\" como recomendación cuando crees tu personaje!"
 			},
 			"title": {
 				"eng": "Invite your friends",
@@ -7328,7 +7328,7 @@
 			},
 			"title2": {
 				"eng": "receive rewards & bonuses!",
-				"trans": "¡recibe recompensas y bonificaciones!"
+				"trans": "recibe recompensas y bonificaciones!"
 			},
 			"unitBonus": {
 				"eng": "You will get 10% bonus ${universalDollars} when your friend makes a purchase",
@@ -7501,11 +7501,11 @@
 	"quest": {
 		"collectItemFromEnemyNotification": {
 			"eng": "You have collected a ${itemName}(Quest) from ${enemyName}!",
-			"trans": "¡Has recolectado un ${itemName}(Misión) de ${enemyName}!"
+			"trans": "Has recolectado un ${itemName}(Misión) de ${enemyName}!"
 		},
 		"collectQuestItemNotification": {
 			"eng": "You found a ${itemName}(Quest)!",
-			"trans": "¡Has encontrado un ${itemName} (Misión)!"
+			"trans": "Has encontrado un ${itemName} (Misión)!"
 		},
 		"completed": {
 			"eng": "Completed",
@@ -7653,13 +7653,13 @@
 	"referral": {
 		"level20Mail": {
 			"eng": "Your referral ${player} has reached level ${level}! rewards has been sent to your apartment!",
-			"trans": "¡Tu recomendación ${player} ha alcanzado el nivel ${level}! ¡Las recompensas han sido enviadas a tu apartamento!"
+			"trans": "Tu recomendación ${player} ha alcanzado el nivel ${level}! Las recompensas han sido enviadas a tu apartamento!"
 		}
 	},
 	"referralPromoSmall": {
 		"extra": {
 			"eng": "get 10% ${unit} for every purchase your friend makes!",
-			"trans": "¡obtén un ${unit} del 10% por cada compra que haga tu amigo!"
+			"trans": "obtén un ${unit} del 10% por cada compra que haga tu amigo!"
 		},
 		"subtitle": {
 			"eng": "Rewards",
@@ -7667,7 +7667,7 @@
 		},
 		"title": {
 			"eng": "Refer a friend and get rewards!",
-			"trans": "¡Recomienda a un amigo y obtén recompensas!"
+			"trans": "Recomienda a un amigo y obtén recompensas!"
 		}
 	},
 	"refreshShopModal": {
@@ -7712,7 +7712,7 @@
 		"success": {
 			"title": {
 				"eng": "Repair Success!",
-				"trans": "¡Reparación exitosa!"
+				"trans": "Reparación exitosa!"
 			}
 		},
 		"terminalTitle": {
@@ -8122,7 +8122,7 @@
 			},
 			"itemNotFound": {
 				"eng": "Item not found",
-				"trans": "¡Objeto no encontrado!"
+				"trans": "Objeto no encontrado!"
 			},
 			"moveToInventory": {
 				"inDungeon": {
@@ -8868,7 +8868,7 @@
 		"resetNoti": {
 			"body": {
 				"eng": "All territories in Arclight City have been reset. let the gang wars begin!",
-				"trans": "Todos los territorios de Ciudad Arclight se han reiniciado. ¡Que comiencen las guerras de bandas!"
+				"trans": "Todos los territorios de Ciudad Arclight se han reiniciado. Que comiencen las guerras de bandas!"
 			},
 			"title": {
 				"eng": "Territory Reset",
@@ -9419,7 +9419,7 @@
 		"combat": {
 			"alreadyTriedEscape": {
 				"eng": "You already tried to escape in this turn!",
-				"trans": "¡Ya intentaste escapar en este turno!"
+				"trans": "Ya intentaste escapar en este turno!"
 			},
 			"autoAttackLevel": {
 				"eng": "You need to be level ${level} to use auto combat",
@@ -9548,7 +9548,7 @@
 				},
 				"text2": {
 					"eng": "Your message will be sent directly to me via direct message, I will try to respond as soon as possible! ❤️",
-					"trans": "Tu mensaje será enviado directamente a mí a través de mensaje directo, ¡trataré de responder lo antes posible! ❤️"
+					"trans": "Tu mensaje será enviado directamente a mí a través de mensaje directo, trataré de responder lo antes posible! ❤️"
 				},
 				"title": {
 					"eng": "Feedback",
@@ -9654,11 +9654,11 @@
 	"updatingOverlay": {
 		"description": {
 			"eng": "Hello, I'm quickly updating the server to improve the game! \\nIt's normal to see a reconnect or update screen for a few seconds.🚀\\nApologies for any inconvenience and thanks for your patience.🙏",
-			"trans": "¡Hola, estoy actualizando rápidamente el servidor para mejorar el juego! \\nEs normal ver una pantalla de reconexión o actualización durante unos segundos.🚀\\nDisculpe cualquier inconveniente y gracias por su paciencia.🙏"
+			"trans": "Hola, estoy actualizando rápidamente el servidor para mejorar el juego! \\nEs normal ver una pantalla de reconexión o actualización durante unos segundos.🚀\\nDisculpe cualquier inconveniente y gracias por su paciencia.🙏"
 		},
 		"title": {
 			"eng": "🌟 Quick Update Notice!",
-			"trans": "🌟 ¡Aviso de Actualización Rápida!"
+			"trans": "🌟 Aviso de Actualización Rápida!"
 		}
 	},
 	"upgradeBackpackPopup": {
@@ -9741,12 +9741,12 @@
 	"useItemButton": {
 		"use": {
 			"eng": "Use ${itemName}",
-			"trans": "Utilizar ${itemName}"
+			"trans": "Utiliser ${itemName}"
 		},
 		"useModal": {
 			"button": {
 				"eng": "Use",
-				"trans": "Utilizar"
+				"trans": "Utiliser"
 			}
 		}
 	},
@@ -9754,34 +9754,34 @@
 		"addItemButton": {
 			"title": {
 				"eng": "Add item to vault",
-				"trans": "Añadir objeto a la bóveda"
+				"trans": "Ajouter l'objet au coffre"
 			}
 		},
 		"emptyVault": {
 			"eng": "Your vault is empty",
-			"trans": "Tu bóveda está vacía"
+			"trans": "Votre coffre est vide"
 		},
 		"selectAddAmountModal": {
 			"title": {
 				"eng": "Select amount to store",
-				"trans": "Seleccionar cantidad a almacenar"
+				"trans": "Sélectionner le montant à stocker"
 			}
 		},
 		"selectItemModal": {
 			"title": {
 				"eng": "Select item to store",
-				"trans": "Seleccionar objeto para almacenar"
+				"trans": "Sélectionner l'item à stocker"
 			}
 		},
 		"selectTakeAmountModal": {
 			"title": {
 				"eng": "Select amount to withdraw",
-				"trans": "Seleccionar cantidad a retirar"
+				"trans": "Selectionner la quantité à retirer"
 			}
 		},
 		"title": {
 			"eng": "Vault",
-			"trans": "Bóveda"
+			"trans": "Coffre"
 		},
 		"vaultSlots": {
 			"eng": "Slots ${size}",
@@ -9792,129 +9792,129 @@
 		"hitmanAdvert": {
 			"subtitle": {
 				"eng": "We can help you get rid of them!",
-				"trans": "¡Podemos ayudarte a deshacerte de ellos!"
+				"trans": "Nous pouvons vous en débarasser!"
 			},
 			"title": {
 				"eng": "Got a nemesis?",
-				"trans": "¿Tienes un némesis?"
+				"trans": "Vous avez un rival ?"
 			}
 		},
 		"hostilePlayerList": {
 			"subtitle": {
 				"eng": "Arrest wanted criminals and get paid!",
-				"trans": "¡Arresta a los criminales buscados y recibe tu pago!"
+				"trans": "Arrêtez des criminels recherchés et soyez payé!"
 			},
 			"title": {
 				"eng": "Your safety, our mission.",
-				"trans": "Tu seguridad, nuestra misión."
+				"trans": "Votre sécurité, notre mission."
 			}
 		},
 		"megaAd": {
 			"subtitle": {
 				"eng": "Mega Estate - the only agency that wont scam you!",
-				"trans": "Mega Estate - ¡la única agencia que no te estafará!"
+				"trans": "Mega Estate - la seule agence qui ne vous anarquera pas!"
 			},
 			"title": {
 				"eng": "Cheap Price!!",
-				"trans": "¡Precio barato!"
+				"trans": "Prix bas!"
 			}
 		},
 		"wiki": {
 			"subtitle": {
 				"eng": "the free encyclopedia that anyone can edit",
-				"trans": "la enciclopedia libre que cualquiera puede editar"
+				"trans": "L'encyclopédie libre que tout le monde peut modifier"
 			}
 		}
 	},
 	"webLandingPage": {
 		"webNotAvailable": {
 			"eng": "Web version is not available yet.",
-			"trans": "La versión web aún no está disponible."
+			"trans": "La version web n'est pas encore disponible."
 		}
 	},
 	"wikiPage": {
 		"subtitle": {
 			"eng": "the free encyclopedia that anyone can edit",
-			"trans": "la enciclopedia libre que cualquiera puede editar"
+			"trans": "L'encyclopédie libre que tout le monde peut modifier"
 		}
 	},
 	"worldEventType": {
 		"bountyAdded": {
 			"announcement": {
 				"eng": "bounty of ${amount1} has been placed on ${targetName}!",
-				"trans": "¡Se ha colocado una recompensa de ${amount1} en ${targetName}!"
+				"trans": "une prime de ${amount1} a été mise sur ${targetName}!"
 			}
 		},
 		"calibrated10": {
 			"announcement": {
 				"eng": "${playerName} has calibrated ${item} to calibration level +10!",
-				"trans": "¡${playerName} ha calibrado ${item} al nivel de calibración +10!"
+				"trans": "${playerName} a étalonné ${item} au niveau d'étalonnage +10!"
 			}
 		},
 		"calibrated11": {
 			"announcement": {
 				"eng": "${playerName} has calibrated ${item} to calibration level +11!",
-				"trans": "¡${playerName} ha calibrado ${item} al nivel de calibración +11!"
+				"trans": "${playerName} a calibré ${item} au niveau d'étalonnage +11!"
 			}
 		},
 		"calibrated12": {
 			"announcement": {
 				"eng": "${playerName} has calibrated ${item} to calibration level +12!",
-				"trans": "¡${playerName} ha calibrado ${item} al nivel de calibración +12!"
+				"trans": "${playerName} a calibré ${item} au niveau d'étalonnage +12!"
 			}
 		},
 		"calibrated7": {
 			"announcement": {
 				"eng": "${playerName} has calibrated ${item}!",
-				"trans": "¡${playerName} ha calibrado ${item}!"
+				"trans": "${playerName} a calibré ${item}!"
 			}
 		},
 		"calibrated8": {
 			"announcement": {
 				"eng": "${playerName} has calibrated ${item}!",
-				"trans": "¡${playerName} ha calibrado ${item}!"
+				"trans": "${playerName} a calibré ${item}!"
 			}
 		},
 		"calibrated9": {
 			"announcement": {
 				"eng": "${playerName} has calibrated ${item}!",
-				"trans": "¡${playerName} ha calibrado ${item}!"
+				"trans": "${playerName} a calibré ${item}!"
 			}
 		},
 		"calibrationFailed": {
 			"announcement": {
 				"eng": "${playerName} broke ${item} while calibrating",
-				"trans": "${playerName} rompió ${item} durante la calibración"
+				"trans": "${playerName} a détruit ${item} pendant l'étalonnage"
 			}
 		},
 		"citizenArrest": {
 			"announcement": {
 				"eng": "${playerName} arrested ${targetName}!",
-				"trans": "¡${playerName} ha arrestado a ${targetName}!"
+				"trans": "${playerName} a arrêté ${targetName}!"
 			}
 		},
 		"mugged": {
 			"announcement": {
 				"eng": "${playerName} mugged someone!",
-				"trans": "¡${playerName} ha asaltado a alguien!"
+				"trans": "${playerName} a extorqué quelqu'un!"
 			}
 		},
 		"muggedFailed": {
 			"announcement": {
 				"eng": "${playerName} tried to mug someone but failed!",
-				"trans": "¡${playerName} intentó asaltar a alguien pero falló!"
+				"trans": "${playerName} a tenté d'extorquer quelqu'un mais s'est raté!"
 			}
 		},
 		"upgradedEpic": {
 			"announcement": {
 				"eng": "${playerName} upgraded ${item} to ${tier}!",
-				"trans": "¡${playerName} ha mejorado ${item} a ${tier}!"
+				"trans": "${playerName} a amélioré ${item} en ${tier}!"
 			}
 		},
 		"upgradedMythic": {
 			"announcement": {
 				"eng": "${playerName} upgraded ${item} to ${tier}!",
-				"trans": "¡${playerName} ha mejorado ${item} a ${tier}!"
+				"trans": "${playerName} a amélioré ${item} en ${tier}!"
 			}
 		}
 	}
