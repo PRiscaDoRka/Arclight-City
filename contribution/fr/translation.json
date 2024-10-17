@@ -9238,202 +9238,202 @@
 		},
 		"backgroundTask2": {
 			"eng": "Click here to start a task.",
-			"trans": "Haz clic aquí para comenzar una tarea."
+			"trans": "Clique ici pour commencer une tâche."
 		},
 		"backpackClear": {
 			"eng": "Move items from backpack to your inventory to ensure you don't lose them during stronghold exploration.",
-			"trans": "Mueve objetos de tu mochila a tu inventario para asegurarte de no perderlos durante la exploración de la fortaleza."
+			"trans": "Déplace tes objets de ton vac à dos vers ton inventaire pour t'assurer de ne pas les perdre durant l'exploration d'un bastion."
 		},
 		"crew1": {
 			"eng": "Click here to view your profile",
-			"trans": "Haz clic aquí para ver tu perfil"
+			"trans": "Clique ici pour voir ton profil"
 		},
 		"crew2": {
 			"eng": "Click here to view your crew members",
-			"trans": "Haz clic aquí para ver a los miembros de tu equipo"
+			"trans": "Clique ici pour voir les membres de ton gang"
 		},
 		"crew3": {
 			"eng": "Click on one of the slots to assign a crew member",
-			"trans": "Haz clic en uno de los espacios para asignar un miembro del equipo"
+			"trans": "Clique sur un des emplacements pour assigner un membre du gang"
 		},
 		"dailyQuest": {
 			"eng": "You have completed daily quests. open this tab to view them.",
-			"trans": "Has completado las misiones diarias. Abre esta pestaña para verlas."
+			"trans": "Tu as terminé les quêtes quotidiennes. Ouvre cet onglet pour les voir."
 		},
 		"dailyQuestClaim": {
 			"eng": "Click here to claim your rewards.",
-			"trans": "Haz clic aquí para reclamar tus recompensas."
+			"trans": "Clique ici pour réclamer tes récompenses."
 		},
 		"deathItem": {
 			"eng": "You can buy back the items you lost from clinic.",
-			"trans": "Puedes comprar de vuelta los objetos que perdiste en la clínica."
+			"trans": "Tu peux racheter les objets perdu à la clinique."
 		},
 		"deathItem2": {
 			"eng": "Click here to view your lost items.",
-			"trans": "Haz clic aquí para ver tus objetos perdidos."
+			"trans": "Clique ici pour voir tes objets perdu."
 		},
 		"dungeon1": {
 			"eng": "click here to explore stronghold",
-			"trans": "Haz clic aquí para explorar la fortaleza"
+			"trans": "Clique ici pour explorer le bastion"
 		},
 		"dungeon2": {
 			"eng": "Select the normal difficulty, you will get ${percent}% extra exp from enemies in the stronghold",
-			"trans": "Selecciona la dificultad normal, obtendrás un ${percent}% de experiencia extra de los enemigos en la fortaleza"
+			"trans": "Sélectionne la difficulté normale, tu obtiendras ${percent}% d'xp supplémentaire sur les ennemis dans le bastion"
 		},
 		"dungeonLevelChange": {
 			"eng": "You change level of the stronghold here if you want to fight stronger or weaker enemies.",
-			"trans": "Aquí puedes cambiar el nivel de la fortaleza si quieres enfrentarte a enemigos más fuertes o más débiles."
+			"trans": "Tu peux changer le niveau du bastion ici si tu veux affronter des ennemis plus forts ou plus faibles."
 		},
 		"dungeonStart": {
 			"eng": "Click here to enter the stronghold.",
-			"trans": "Haz clic aquí para entrar a la fortaleza."
+			"trans": "Clique ici pour entrer dans le bastion."
 		},
 		"equipItem": {
 			"eng": "Click here to automatically equip items, you can also equip items manually from by clicking the equipment slots or within item details page.",
-			"trans": "Haz clic aquí para equipar automáticamente objetos, también puedes equipar objetos manualmente haciendo clic en los espacios de equipo o en la página de detalles del objeto."
+			"trans": "Clique ici pour équiper automatiquement des objets, tu peux équiper manuellement en cliquant sur le slot d'équipement ou depuis la page de détails de l'objet."
 		},
 		"freeMerc1": {
 			"eng": "Click here for all kinds of benefits",
-			"trans": "Haz clic aquí para obtener todo tipo de beneficios"
+			"trans": "Clique ici pour avoir toutes sortes d'avantages "
 		},
 		"freeMerc2": {
 			"eng": "Click here to get free ${itemName}",
-			"trans": "Haz clic aquí para obtener ${itemName} gratis"
+			"trans": "Clique ici pour avoir gratuitement"
 		},
 		"freeMerc3": {
 			"eng": "Click back to return to main screen",
-			"trans": "Haz clic en volver para regresar a la pantalla principal"
+			"trans": "Clique sur retour pour retourner à l'écran principal"
 		},
 		"heal": {
 			"eng": "Click here to assign healing items to quick slots.",
-			"trans": "Haz clic aquí para asignar objetos de curación a las ranuras rápidas."
+			"trans": "Clique ici pour assigner un objet de soin à l'accès rapide."
 		},
 		"leaveDungeon": {
 			"eng": "You can click here to leave the stronghold at any time.",
-			"trans": "Puedes hacer clic aquí para salir de la fortaleza en cualquier momento."
+			"trans": "Tu peux cliquer ici pour quitter le bastion n'important quand."
 		},
 		"localEnemy1": {
 			"eng": "Click here to scan for nearby enemies.",
-			"trans": "Haz clic aquí para escanear enemigos cercanos."
+			"trans": "Clique ici pour scanner les ennemis proches."
 		},
 		"localEnemy2": {
 			"eng": "Click on an enemy to engage in battle.",
-			"trans": "Haz clic en un enemigo para entrar en batalla."
+			"trans": "Clique sur un ennemi pour engager le combat."
 		},
 		"locationChange": {
 			"eng": "You can travel to other locations with different levels from here",
-			"trans": "Puedes viajar a otras ubicaciones con diferentes niveles desde aquí"
+			"trans": "Tu peux voyager vers d'autres emplacements de niveaux différents depuis ici"
 		},
 		"locationRewards": {
 			"eng": "You can claim these reward after you have defeated the boss in the Hard Difficulty stronghold at this location.",
-			"trans": "Puedes reclamar estas recompensas después de haber derrotado al jefe en la fortaleza de Dificultad Difícil en esta ubicación."
+			"trans": "Tu peux réclamer ces récompenses après avoir vaincu le boss dans le bastion de difficulté difficile à cet emplacement."
 		},
 		"locationTravelBtn": {
 			"eng": "Click here to travel to the location.",
-			"trans": "Haz clic aquí para viajar a la ubicación."
+			"trans": "Clique ici pour voyager jusqu'à l'emplacement."
 		},
 		"mercenary1": {
 			"eng": "Click here to view your mercenary contacts",
-			"trans": "Haz clic aquí para ver tus contactos mercenarios"
+			"trans": "Clique ici pour voir ta liste de contacts de mercenaire"
 		},
 		"mercenary2": {
 			"eng": "Click here to recruit new mercenaries",
-			"trans": "Haz clic aquí para reclutar nuevos mercenarios"
+			"trans": "Clique ici pour recruter de nouveaux mercenaires"
 		},
 		"mercenary3": {
 			"eng": "Click here to recruit 10 new mercenaries",
-			"trans": "Haz clic aquí para reclutar 10 nuevos mercenarios"
+			"trans": "Clique ici pour recruter 10 nouveaux mercenaires"
 		},
 		"quest": {
 			"eng": "Click here to view your quests.",
-			"trans": "Haz clic aquí para ver tus misiones."
+			"trans": "Clique ici pour voir tes quêtes."
 		},
 		"travelToLevel2": {
 			"eng": "Click here to travel to the next area where enemies are stronger and give more exp.",
-			"trans": "Haz clic aquí para viajar a la siguiente área donde los enemigos son más fuertes y dan más experiencia."
+			"trans": "Clique ici pour voyager jusqu'à la prochaine zone où les ennemis sont plus fort et offrent plus d'xp."
 		},
 		"upgradeItem": {
 			"eng": "Click here to view your inventory.",
-			"trans": "Haz clic aquí para ver tu inventario."
+			"trans": "Clique ici pour voir ton inventaire."
 		},
 		"upgradeItemClickUpgrade": {
 			"eng": "Click \"Upgrade\" to level up this equipment.",
-			"trans": "Haz clic en \"Mejora\" para subir de nivel este equipo."
+			"trans": "Clique sur \"Améliorer\" pour améliorer cet équipement."
 		},
 		"upgradeItemDetails": {
 			"eng": "Click here to upgrade this item.",
-			"trans": "Haz clic aquí para mejorar este objeto."
+			"trans": "Clique ici pour améliorer cet objet."
 		},
 		"upgradeItemSlot": {
 			"eng": "Click on an equipment slot to view the item details.",
-			"trans": "Haz clic en una ranura de equipo para ver los detalles del artículo."
+			"trans": "Clique sur un slot d'équipement pour voir les détails de l'objet."
 		},
 		"upgradeItemTab": {
 			"eng": "You can upgrade your items by using the following shards, try ${itemName} first, it will allow you to level up your equipments",
-			"trans": "Puedes mejorar tus objetos usando los siguientes fragmentos, prueba con ${itemName} primero, te permitirá subir de nivel tus equipos"
+			"trans": "Tu peux améliorer tes objets en utilisant les éclats suivants. Essaie d'abord ${itemName}, cela te permettra de monter en niveau ton équipement"
 		},
 		"useSkill": {
 			"eng": "Click here to command your mercenary to use skill.",
-			"trans": "Haz clic aquí para ordenar a tu mercenario que utilice su habilidad."
+			"trans": "Clique ici pour ordonner à ton mercenaire d'utiliser sa compétence."
 		}
 	},
 	"tutorialContainer": {
 		"continue": {
 			"eng": "Click to continue",
-			"trans": "Haz clic para continuar"
+			"trans": "Clique pour continuer"
 		}
 	},
 	"ui": {
 		"assignQuickSlotModal": {
 			"title": {
 				"eng": "Select an item to assign to quick slot ${slotIndex}",
-				"trans": "Selecciona un objeto para asignar al espacio rápido ${slotIndex}"
+				"trans": "Sélectionne un objet à assigner à l'accès rapide ${slotIndex}"
 			}
 		},
 		"back": {
 			"eng": "Back",
-			"trans": "Atrás"
+			"trans": "Retour"
 		},
 		"characterSelect": {
 			"createCharacter": {
 				"eng": "Create new character",
-				"trans": "Crear nuevo personaje"
+				"trans": "Créer nouveau personnage"
 			},
 			"deleteCharacter": {
 				"eng": "Delete Character",
-				"trans": "Borrar Personaje"
+				"trans": "Supprimer personnage"
 			},
 			"noCharacters": {
 				"eng": "You have no characters",
-				"trans": "No tienes personajes"
+				"trans": "Tu n'as aucun personnage"
 			},
 			"playCharacter": {
 				"eng": "login",
-				"trans": "Iniciar sesión"
+				"trans": "Connexion"
 			},
 			"title": {
 				"eng": "Characters",
-				"trans": "Personajes"
+				"trans": "Personnages"
 			}
 		},
 		"combat": {
 			"alreadyTriedEscape": {
 				"eng": "You already tried to escape in this turn!",
-				"trans": "Ya intentaste escapar en este turno!"
+				"trans": "Tu as déjà essayé de t'échapper ce tour-ci!"
 			},
 			"autoAttackLevel": {
 				"eng": "You need to be level ${level} to use auto combat",
-				"trans": "Necesitas ser nivel ${level} para utilizar el combate automático"
+				"trans": "Tu dois être au niveau ${level} pour le combat automatique"
 			},
 			"escape": {
 				"eng": "escape",
-				"trans": "escapar"
+				"trans": "fuir"
 			}
 		},
 		"dungeonUI": {
 			"backpack": {
 				"eng": "Backpack",
-				"trans": "Mochila"
+				"trans": "Sac à dos"
 			},
 			"chat": {
 				"eng": "Chat",
@@ -9441,43 +9441,43 @@
 			},
 			"quest": {
 				"eng": "Quest",
-				"trans": "Misión"
+				"trans": "Quête"
 			}
 		},
 		"equipmentModal": {
 			"changeEquipment": {
 				"eng": "Change equipment",
-				"trans": "Cambiar equipo"
+				"trans": "Changer équipement"
 			},
 			"unequip": {
 				"eng": "Unequip",
-				"trans": "Desequipar"
+				"trans": "Déséquiper"
 			},
 			"viewDetails": {
 				"eng": "View details",
-				"trans": "Ver detalles"
+				"trans": "Voir détails"
 			}
 		},
 		"health": {
 			"eng": "health",
-			"trans": "Salud"
+			"trans": "santé"
 		},
 		"inventoryPage": {
 			"equipmentTab": {
 				"autoEquip": {
 					"eng": "Auto Equip",
-					"trans": "Equipar automáticamente"
+					"trans": "Équipement Auto"
 				},
 				"quickSlots": {
 					"title": {
 						"eng": "Quick Slots",
-						"trans": "Ranuras rápidas"
+						"trans": "Accès rapides"
 					}
 				},
 				"unAssignQuickSlot": {
 					"title": {
 						"eng": "Unassign Quick Slot",
-						"trans": "Desasignar Ranura Rápida"
+						"trans": "Désassigner l'accès rapide"
 					}
 				}
 			},
@@ -9485,25 +9485,25 @@
 				"backpack": {
 					"title": {
 						"eng": "Backpack",
-						"trans": "Mochila"
+						"trans": "Sac à dos"
 					}
 				},
 				"equipments": {
 					"title": {
 						"eng": "Equipments",
-						"trans": "Equipos"
+						"trans": "Équipements"
 					}
 				},
 				"inventory": {
 					"title": {
 						"eng": "Inventory",
-						"trans": "Inventario"
+						"trans": "Inventaire"
 					}
 				},
 				"questItems": {
 					"title": {
 						"eng": "Quest Items",
-						"trans": "Objetos de misión"
+						"trans": "Objets de quête"
 					}
 				}
 			}
@@ -9511,111 +9511,111 @@
 		"itemModal": {
 			"viewDetails": {
 				"eng": "View Details",
-				"trans": "Ver detalles"
+				"trans": "Voir détails"
 			}
 		},
 		"itemSelectModal": {
 			"noItems": {
 				"eng": "No available items",
-				"trans": "No hay artículos disponibles"
+				"trans": "Aucun objet disponible"
 			}
 		},
 		"mainMenu": {
 			"blockedPlayer": {
 				"eng": "blocked",
-				"trans": "bloqueado"
+				"trans": "Bloqué"
 			},
 			"bugReport": {
 				"eng": "Bug Report",
-				"trans": "Reporte de errores"
+				"trans": "Rapport de bug"
 			},
 			"dailyReward": {
 				"eng": "Daily Reward",
-				"trans": "Recompensa Diaria"
+				"trans": "Récompense journalière"
 			},
 			"discord": {
 				"eng": "Discord",
-				"trans": "Discordo"
+				"trans": "Discord"
 			},
 			"feedback": {
 				"eng": "Feedback",
-				"trans": "Retroalimentación"
+				"trans": "Avis"
 			},
 			"feedbackModal": {
 				"text1": {
 					"eng": "Do you want to send feedback to the developer(me)?",
-					"trans": "¿Quieres enviar comentarios al desarrollador (yo)?"
+					"trans": "Voulez-vous envoyer votre avis au développeur (moi)?"
 				},
 				"text2": {
 					"eng": "Your message will be sent directly to me via direct message, I will try to respond as soon as possible! ❤️",
-					"trans": "Tu mensaje será enviado directamente a mí a través de mensaje directo, trataré de responder lo antes posible! ❤️"
+					"trans": "Votre message me sera envoyé directement par message privé, j'essaierai de répondre dès que possible! ❤️"
 				},
 				"title": {
 					"eng": "Feedback",
-					"trans": "Retroalimentación"
+					"trans": "Avis"
 				}
 			},
 			"giftCode": {
 				"eng": "Gift Code",
-				"trans": "Código de regalo"
+				"trans": "Code Cadeau"
 			},
 			"leaderboard": {
 				"eng": "leaderboard",
-				"trans": "tabla de clasificación"
+				"trans": "Classement"
 			},
 			"links": {
 				"eng": "links",
-				"trans": "enlaces"
+				"trans": "liens"
 			},
 			"logoutButton": {
 				"eng": "logout",
-				"trans": "Cerrar sesión"
+				"trans": "Déconnexion"
 			},
 			"loreNotes": {
 				"eng": "lore notes",
-				"trans": "notas de historia"
+				"trans": "Notes de lore"
 			},
 			"settings": {
 				"eng": "Settings",
-				"trans": "Configuración"
+				"trans": "Paramètres"
 			},
 			"updateLog": {
-				"eng": "Update Log",
+				"eng": "Journal des mises à jour",
 				"trans": "Registro de Actualización"
 			},
 			"wiki": {
 				"eng": "tutorial",
-				"trans": "tutorial"
+				"trans": "tutoriel"
 			},
 			"workInProgress": {
 				"eng": "This page is still work in progress",
-				"trans": "Esta página todavía está en proceso de construcción"
+				"trans": "Cette page est encore en cours de développement"
 			}
 		},
 		"misc": {
 			"equip": {
 				"eng": "Equip",
-				"trans": "Equipar"
+				"trans": "Équiper"
 			}
 		},
 		"selectItemModal": {
 			"noItems": {
 				"eng": "No available item",
-				"trans": "No hay artículo disponible"
+				"trans": "Aucun objet disponible"
 			},
 			"title": {
 				"eng": "Select item",
-				"trans": "Seleccionar objeto"
+				"trans": "Selectionner objet"
 			}
 		},
 		"shield": {
 			"eng": "shield",
-			"trans": "escudo"
+			"trans": "bouclier"
 		},
 		"travelBack": {
 			"title": {
 				"eng": "Back",
-				"trans": "Atrás"
+				"trans": "Retour"
 			}
 		}
 	},
@@ -9629,7 +9629,7 @@
 		"large": {
 			"name": {
 				"eng": "Large",
-				"trans": "Grande"
+				"trans": "Large"
 			}
 		},
 		"normal": {
@@ -9641,100 +9641,100 @@
 		"small": {
 			"name": {
 				"eng": "Small",
-				"trans": "Pequeño"
+				"trans": "Petit"
 			}
 		},
 		"tiny": {
 			"name": {
 				"eng": "Tiny",
-				"trans": "Pequeño"
+				"trans": "Minuscule"
 			}
 		}
 	},
 	"updatingOverlay": {
 		"description": {
 			"eng": "Hello, I'm quickly updating the server to improve the game! \\nIt's normal to see a reconnect or update screen for a few seconds.🚀\\nApologies for any inconvenience and thanks for your patience.🙏",
-			"trans": "Hola, estoy actualizando rápidamente el servidor para mejorar el juego! \\nEs normal ver una pantalla de reconexión o actualización durante unos segundos.🚀\\nDisculpe cualquier inconveniente y gracias por su paciencia.🙏"
+			"trans": "Bonjour, je mets rapidement à jour le serveur pour améliorer le jeu ! \nIl est normal de voir un écran de reconnexion ou de mise à jour pendant quelques secondes.🚀\nNavré pour la gêne et merci pour votre patience.🙏"
 		},
 		"title": {
 			"eng": "🌟 Quick Update Notice!",
-			"trans": "🌟 Aviso de Actualización Rápida!"
+			"trans": "🌟 Aperçu de mise à jour rapide!"
 		}
 	},
 	"upgradeBackpackPopup": {
 		"description": {
 			"eng": "Upgrade your backpack to increase the amount of items you can carry in strongholds.",
-			"trans": "Mejora tu mochila para aumentar la cantidad de objetos que puedes llevar en las fortalezas."
+			"trans": "Améliorez votre sac à dos pour augmenter la quantité d'objets que vous pouvez transporter dans les bastions."
 		},
 		"eng": "Backpack upgrade",
 		"slots": {
 			"eng": "${totalSlots} slots(+${slot})",
-			"trans": "${totalSlots} ranuras(+${slot})"
+			"trans": "${totalSlots} slots(+${slot})"
 		},
-		"trans": "Mejora de mochila",
+		"trans": "Amélioration du sac à dos",
 		"upgrade": {
 			"eng": "Upgrade ${index}",
-			"trans": "Mejora ${index}"
+			"trans": "Améliorer ${index}"
 		}
 	},
 	"upgradeInventoryPopup": {
 		"addedSlots": {
 			"eng": "${slots} slots (+${addedSlots})",
-			"trans": "${slots} ranuras (+${addedSlots})",
+			"trans": "${slots} slots (+${addedSlots})",
 			"vars": []
 		},
 		"description": {
 			"eng": "You can also upgrade your inventory space by renting a apartment",
-			"trans": "También puedes mejorar el espacio de tu inventario al alquilar un apartamento"
+			"trans": "Vous pouvez également améliorer l'inventaire en louant un appartement"
 		},
 		"eng": "Inventory upgrade",
-		"trans": "Mejora de inventario",
+		"trans": "Amélioration de l'inventaire",
 		"upgrade": {
 			"eng": "Upgrade ${index}",
-			"trans": "Mejora ${index}"
+			"trans": "Améliorer ${index}"
 		}
 	},
 	"upgradeItem": {
 		"error": {
 			"alreadyIdentified": {
 				"eng": "This item does not have unidentified traits",
-				"trans": "Este objeto no tiene rasgos no identificados"
+				"trans": "Cet objet n'a pas de traits non identifiés"
 			},
 			"levelNonTierMismatch": {
 				"eng": "Can't level a ${itemTier} item, ${shardName} can only be used with ${requiredTier} items",
-				"trans": "No se puede subir de nivel un objeto ${itemTier}, ${shardName} solo se puede usar con objetos ${requiredTier}"
+				"trans": "Impossible de niveler un objet ${itemTier}, ${shardName} ne peut être utilisé qu'avec des objets ${requiredTier}"
 			},
 			"levelUpTooHigh": {
 				"eng": "You cannot level up an item higher than your level",
-				"trans": "No puedes subir de nivel un objeto más alto que tu nivel"
+				"trans": "Vous ne pouvez pas améliorer un objet au delà de votre niveau"
 			},
 			"maxLevelUpTimesReached": {
 				"eng": "Item has reached max amount of times it can be leveled up",
-				"trans": "El objeto ha alcanzado el máximo de veces que puede ser mejorado"
+				"trans": "L'objet a atteint le nombre d'amélioration maximal"
 			},
 			"maxPrefixInjected": {
 				"eng": "You cannot inject more prefix into this item",
-				"trans": "No puedes inyectar más prefijos en este objeto"
+				"trans": "Vous ne pouvez pas injecter davantage de préfixes dans cet objet"
 			},
 			"prefixInjectNonTierMismatch": {
 				"eng": "This item is not high enough tier to inject prefix",
-				"trans": "Este objeto no tiene suficiente nivel para inyectar un prefijo"
+				"trans": "Cet objet n'est pas de niveau suffisamment élevé pour injecter un préfixe"
 			},
 			"resetNonTierMismatch": {
 				"eng": "Can't reset a ${itemTier} item, ${shardName} can only be used with ${requiredTier} items",
-				"trans": "No se puede reiniciar un objeto ${itemTier}, ${shardName} solo se puede usar con objetos ${requiredTier}"
+				"trans": "Impossible de réinitialiser un objet ${itemTier}, ${shardName} ne peut être utilisé qu'avec des objets ${requiredTier}"
 			},
 			"upgradeLevelTooLow": {
 				"eng": "Can't upgrade to a ${itemTier} item, ${shardName} can only be used with items that are at least level ${minLevel}",
-				"trans": "No se puede mejorar a un objeto de ${itemTier}, ${shardName} solo se puede utilizar con objetos que tengan al menos nivel ${minLevel}"
+				"trans": "Impossible d'améliorer un objet ${itemTier}, ${shardName} ne peut être utilisé qu'avec des objets d'un niveau minimum de ${minLevel}"
 			},
 			"upgradeLevelTooLowMythic": {
 				"eng": "${shardName} can only be used with items that are at least level ${minLevel}",
-				"trans": "${shardName} solo puede ser utilizado con objetos que tengan al menos nivel ${minLevel}"
+				"trans": "${shardName} ne peut être utilisé qu'avec des objets d'un niveau minimum de ${minLevel}"
 			},
 			"upgradeNonTierMismatch": {
 				"eng": "Can't upgrade a ${itemTier} item, ${shardName} can only be used with ${requiredTier} items",
-				"trans": "No se puede mejorar un objeto ${itemTier}, ${shardName} solo se puede usar con objetos ${requiredTier}"
+				"trans": "Impossible d'améliorer un objet ${itemTier}, ${shardName} ne peut être utilisé qu'avec des objets ${requiredTier}"
 			}
 		}
 	},
