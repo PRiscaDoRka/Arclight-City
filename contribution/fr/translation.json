@@ -7,7 +7,7 @@
 		"endDate": {
 			"desc": {
 				"eng": "This battle track will end at ${date}, and you will not be able purchase it after this date.",
-				"trans": "Ce battle track prendra fin le ${date}, vous ne pourrez plus l'acheter après cette date."													
+				"trans": "Ce battle track prendra fin le ${date}, l'achat sera impossible après cette date."													
 			},
 			"title": {
 				"eng": "Track End Date",
@@ -42,7 +42,7 @@
 	"CrewTip": {
 		"tip1": {
 			"eng": "Looks like one or more of your mercenary is low level, you should level them up to match your level using ${item1} and ${item2}",
-			"trans": "On dirait qu'un ou plusieurs de vos mercenaires soient bas niveau, Vous devriez les faire monter en niveau pour qu'ils correspondent au vôtre en utilisant ${item1} et ${item2}"
+			"trans": "On dirait qu'un ou plusieurs de tes mercenaires sont de bas niveau, Tu devrais les faire monter en niveau pour qu'ils correspondent au tien en utilisant ${item1} et ${item2}"
 		}
 	},
 	"MercenaryDrawType": {
@@ -9153,84 +9153,84 @@
 		"selectAmountModal": {
 			"title": {
 				"eng": "Select amount",
-				"trans": "Seleccionar cantidad"
+				"trans": "Sélectionner quantité"
 			}
 		},
 		"tooManyItems": {
 			"eng": "You can\\'t add more items to this trade",
-			"trans": "No puedes añadir más objetos a este intercambio"
+			"trans": "Vous ne pouvez pas ajouter plus d'objets à l'échange"
 		},
 		"tooMuchMoney": {
 			"eng": "You can\\'t add more money to this trade",
-			"trans": "No puedes añadir más dinero a este intercambio"
+			"trans": "Vous ne pouvez pas ajouter plus d'argent à l'échange"
 		},
 		"tradeCompleted": {
 			"eng": "Trade Completed",
-			"trans": "Comercio completado"
+			"trans": "Échange terminé"
 		},
 		"tradeExpired": {
 			"eng": "This trade session has expired",
-			"trans": "Esta sesión de intercambio ha expirado"
+			"trans": "Cette session d'échange a expiré"
 		},
 		"tradeNotFound": {
 			"eng": "This trade session has already been removed",
-			"trans": "Esta sesión de comercio ya ha sido eliminada"
+			"trans": "Cette session d'échange a déjà été supprimée"
 		},
 		"tradeTerminated": {
 			"eng": "Trade was terminated",
-			"trans": "El intercambio ha sido terminado"
+			"trans": "L'échange a été conclu"
 		},
 		"unlock": {
 			"eng": "unlock deal",
-			"trans": "desbloquear oferta"
+			"trans": "débloquer l'offre"
 		}
 	},
 	"travelToLocationModal": {
 		"alreadyAtLocation": {
 			"eng": "Already at location",
-			"trans": "Ya en la ubicación"
+			"trans": "Déjà sur place"
 		},
 		"claimReward": {
 			"eng": "Claim reward",
-			"trans": "Reclamar recompensa"
+			"trans": "Récuperer récompense"
 		},
 		"locationBackground": {
 			"eng": "Background Story",
-			"trans": "Historia de fondo"
+			"trans": "Histoire du lieu"
 		},
 		"locationNotCleared2": {
 			"eng": "Clear level ${level} ${dungeonType} stronghold to unlock the rewards",
-			"trans": "Despeja el nivel ${level} de la fortaleza ${dungeonType} para desbloquear las recompensas"
+			"trans": "Termine le niveau ${level} du bastion ${dungeonType} pour récuperer les récompenses"
 		},
 		"rewardClaimed": {
 			"eng": "claimed",
-			"trans": "reclamado"
+			"trans": "déjà récupéré"
 		},
 		"rewardDescription": {
 			"eng": "Rewards are claimed after clearing the ${difficulty} stronghold, you must participate in defeating the boss for it to count.\\nyou can only claim reward for each location once.",
-			"trans": "Las recompensas se reclaman después de completar la fortaleza de ${difficulty}, debes participar en derrotar al jefe para que cuente. Solo puedes reclamar la recompensa una vez por ubicación."
+			"trans": "Le butin est récupéré après avoir terminé le bastion ${difficulty}. Tu dois participer à la défaite du boss pour que cela compte.\\nTu peux récupérer le butin sur chaque lieu une seule fois."
 		},
 		"rewardSubtitle": {
 			"eng": "raid rewards",
-			"trans": "recompensas de incursión"
+			"trans": "butin de raid"
 		},
 		"travelToLocation": {
 			"eng": "Travel to location",
-			"trans": "Viajar a la ubicación"
+			"trans": "Voyager vers le lieu"
 		}
 	},
 	"tutorial": {
 		"attack": {
 			"eng": "Hold and release at correct timing to perform attacks.",
-			"trans": "Mantén y suelta en el momento adecuado para realizar ataques."
+			"trans": "Maintiens et relâche au bon moment pour attaquer."
 		},
 		"autoAttack": {
 			"eng": "Click here to toggle auto combat, which will allow you to attack enemies, use ability and heal automatically.",
-			"trans": "Haz clic aquí para alternar el combate automático, que te permitirá atacar enemigos, usar habilidades y curarte automáticamente."
+			"trans": "Clique ici pour attaquer, utiliser des compétences et te soigner automatiquement.."
 		},
 		"backToMainPage": {
 			"eng": "You can always go back to main screen from here.",
-			"trans": "Puedes volver siempre a la pantalla principal desde aquí."
+			"trans": "Tu peux toujours revenir à l'écran principal depuis ici."
 		},
 		"backgroundTask1": {
 			"eng": "You have a slot for AFK tasks, click here to view it.",
@@ -9250,11 +9250,11 @@
 		},
 		"crew2": {
 			"eng": "Click here to view your crew members",
-			"trans": "Clique ici pour voir les membres de ton gang"
+			"trans": "Clique ici pour voir les membres de ton crew"
 		},
 		"crew3": {
 			"eng": "Click on one of the slots to assign a crew member",
-			"trans": "Clique sur un des emplacements pour assigner un membre du gang"
+			"trans": "Clique sur un des emplacements pour assigner un membre du crew"
 		},
 		"dailyQuest": {
 			"eng": "You have completed daily quests. open this tab to view them.",
@@ -9290,7 +9290,7 @@
 		},
 		"equipItem": {
 			"eng": "Click here to automatically equip items, you can also equip items manually from by clicking the equipment slots or within item details page.",
-			"trans": "Clique ici pour équiper automatiquement des objets, tu peux équiper manuellement en cliquant sur le slot d'équipement ou depuis la page de détails de l'objet."
+			"trans": "Clique ici pour équiper automatiquement des objets,\\ntu peux équiper manuellement en cliquant sur le slot d'équipement ou depuis la page de détails de l'objet."
 		},
 		"freeMerc1": {
 			"eng": "Click here for all kinds of benefits",
@@ -9322,11 +9322,11 @@
 		},
 		"locationChange": {
 			"eng": "You can travel to other locations with different levels from here",
-			"trans": "Tu peux voyager vers d'autres emplacements de niveaux différents depuis ici"
+			"trans": "Tu peux voyager vers d'autres lieux de niveaux différents depuis ici"
 		},
 		"locationRewards": {
 			"eng": "You can claim these reward after you have defeated the boss in the Hard Difficulty stronghold at this location.",
-			"trans": "Tu peux réclamer ces récompenses après avoir vaincu le boss dans le bastion de difficulté difficile à cet emplacement."
+			"trans": "Tu peux récuperer ton butin après avoir vaincu le boss dans le bastion de difficulté difficile ici."
 		},
 		"locationTravelBtn": {
 			"eng": "Click here to travel to the location.",
@@ -9366,11 +9366,11 @@
 		},
 		"upgradeItemSlot": {
 			"eng": "Click on an equipment slot to view the item details.",
-			"trans": "Clique sur un slot d'équipement pour voir les détails de l'objet."
+			"trans": "Clique sur un emplacement d'équipement pour voir les détails de l'objet."
 		},
 		"upgradeItemTab": {
 			"eng": "You can upgrade your items by using the following shards, try ${itemName} first, it will allow you to level up your equipments",
-			"trans": "Tu peux améliorer tes objets en utilisant les éclats suivants. Essaie d'abord ${itemName}, cela te permettra de monter en niveau ton équipement"
+			"trans": "Tu peux améliorer tes objets en utilisant les éclats suivants.\\nEssaie d'abord ${itemName}, cela te permettra de monter en niveau ton équipement"
 		},
 		"useSkill": {
 			"eng": "Click here to command your mercenary to use skill.",
@@ -9447,7 +9447,7 @@
 		"equipmentModal": {
 			"changeEquipment": {
 				"eng": "Change equipment",
-				"trans": "Changer équipement"
+				"trans": "Changer d'équipement"
 			},
 			"unequip": {
 				"eng": "Unequip",
@@ -9531,7 +9531,7 @@
 			},
 			"dailyReward": {
 				"eng": "Daily Reward",
-				"trans": "Récompense journalière"
+				"trans": "Récompense quotidienne"
 			},
 			"discord": {
 				"eng": "Discord",
@@ -9544,11 +9544,11 @@
 			"feedbackModal": {
 				"text1": {
 					"eng": "Do you want to send feedback to the developer(me)?",
-					"trans": "Voulez-vous envoyer votre avis au développeur (moi)?"
+					"trans": "Veux-tu envoyer ton avis au développeur (moi)?"
 				},
 				"text2": {
 					"eng": "Your message will be sent directly to me via direct message, I will try to respond as soon as possible! ❤️",
-					"trans": "Votre message me sera envoyé directement par message privé, j'essaierai de répondre dès que possible! ❤️"
+					"trans": "Ton message me sera envoyé directement par message privé, j'essaierai d'y répondre dès que possible! ❤️"
 				},
 				"title": {
 					"eng": "Feedback",
@@ -9573,15 +9573,15 @@
 			},
 			"loreNotes": {
 				"eng": "lore notes",
-				"trans": "Notes de lore"
+				"trans": "Notes du lore"
 			},
 			"settings": {
 				"eng": "Settings",
 				"trans": "Paramètres"
 			},
 			"updateLog": {
-				"eng": "Journal des mises à jour",
-				"trans": "Registro de Actualización"
+				"eng": "Update Log",
+				"trans": "Journal Maj"
 			},
 			"wiki": {
 				"eng": "tutorial",
@@ -9654,7 +9654,7 @@
 	"updatingOverlay": {
 		"description": {
 			"eng": "Hello, I'm quickly updating the server to improve the game! \\nIt's normal to see a reconnect or update screen for a few seconds.🚀\\nApologies for any inconvenience and thanks for your patience.🙏",
-			"trans": "Bonjour, je mets rapidement à jour le serveur pour améliorer le jeu ! \nIl est normal de voir un écran de reconnexion ou de mise à jour pendant quelques secondes.🚀\nNavré pour la gêne et merci pour votre patience.🙏"
+			"trans": "Salut, je mets rapidement à jour le serveur pour améliorer le jeu ! \nIl est normal de voir un écran de reconnexion ou de mise à jour pendant quelques secondes.🚀\nNavré pour la gêne et merci pour ta patience.🙏"
 		},
 		"title": {
 			"eng": "🌟 Quick Update Notice!",
@@ -9664,12 +9664,12 @@
 	"upgradeBackpackPopup": {
 		"description": {
 			"eng": "Upgrade your backpack to increase the amount of items you can carry in strongholds.",
-			"trans": "Améliorez votre sac à dos pour augmenter la quantité d'objets que vous pouvez transporter dans les bastions."
+			"trans": "Améliore ton sac à dos pour augmenter la quantité d'objets que tu peux transporter dans les bastions."
 		},
 		"eng": "Backpack upgrade",
 		"slots": {
 			"eng": "${totalSlots} slots(+${slot})",
-			"trans": "${totalSlots} slots(+${slot})"
+			"trans": "${totalSlots} places(+${slot})"
 		},
 		"trans": "Amélioration du sac à dos",
 		"upgrade": {
@@ -9680,12 +9680,12 @@
 	"upgradeInventoryPopup": {
 		"addedSlots": {
 			"eng": "${slots} slots (+${addedSlots})",
-			"trans": "${slots} slots (+${addedSlots})",
+			"trans": "${slots} places (+${addedSlots})",
 			"vars": []
 		},
 		"description": {
 			"eng": "You can also upgrade your inventory space by renting a apartment",
-			"trans": "Vous pouvez également améliorer l'inventaire en louant un appartement"
+			"trans": "Tu peux aussi améliorer l'espace d'inventaire en louant un appartement"
 		},
 		"eng": "Inventory upgrade",
 		"trans": "Amélioration de l'inventaire",
@@ -9702,19 +9702,19 @@
 			},
 			"levelNonTierMismatch": {
 				"eng": "Can't level a ${itemTier} item, ${shardName} can only be used with ${requiredTier} items",
-				"trans": "Impossible de niveler un objet ${itemTier}, ${shardName} ne peut être utilisé qu'avec des objets ${requiredTier}"
+				"trans": "Impossible d'améliorer un objet ${itemTier}, ${shardName} ne peut être utilisé qu'avec des objets ${requiredTier}"
 			},
 			"levelUpTooHigh": {
 				"eng": "You cannot level up an item higher than your level",
-				"trans": "Vous ne pouvez pas améliorer un objet au delà de votre niveau"
+				"trans": "Tu ne peux pas améliorer un objet au delà de ton niveau"
 			},
 			"maxLevelUpTimesReached": {
 				"eng": "Item has reached max amount of times it can be leveled up",
-				"trans": "L'objet a atteint le nombre d'amélioration maximal"
+				"trans": "L'objet a atteint le nombre max d'améliorations"
 			},
 			"maxPrefixInjected": {
 				"eng": "You cannot inject more prefix into this item",
-				"trans": "Vous ne pouvez pas injecter davantage de préfixes dans cet objet"
+				"trans": "Tu ne peux pas injecter davantage de préfixes dans cet objet"
 			},
 			"prefixInjectNonTierMismatch": {
 				"eng": "This item is not high enough tier to inject prefix",
@@ -9785,7 +9785,7 @@
 		},
 		"vaultSlots": {
 			"eng": "Slots ${size}",
-			"trans": "Slots ${size}"
+			"trans": "Places ${size}"
 		}
 	},
 	"webHomePage": {
@@ -9848,7 +9848,7 @@
 		"calibrated10": {
 			"announcement": {
 				"eng": "${playerName} has calibrated ${item} to calibration level +10!",
-				"trans": "${playerName} a étalonné ${item} au niveau d'étalonnage +10!"
+				"trans": "${playerName} a calibré ${item} au niveau d'étalonnage +10!"
 			}
 		},
 		"calibrated11": {
